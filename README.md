@@ -3,7 +3,7 @@
 App de receitas desenvolvido em grupo, baseado em duas APIs, uma para comidas e outra para bebidas. O layout tem como foco dispositivos móveis. Na aplicação será possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks!
 
 
-# Tecnologias e ferramentas utiliadas
+# Tecnologias e ferramentas utilizadas
 
   - A biblioteca _React-Redux_
   - _Redux_ e _ Context API do _React_ para gerenciar estado
